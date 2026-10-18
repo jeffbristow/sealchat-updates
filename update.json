@@ -1,21 +1,22 @@
 {
     "name": "Seal Chat",
-    "version": "1.7.0",
-    "url": "https://raw.githubusercontent.com/jeffbristow/sealchat-updates/main/v1.7.0/SealChat-1.7.0.sealchat",
-    "size": "19.4 MB",
-    "sha256": "0ea9325cdaa9c2f36837b4cc07a6b737819b1edbe2aa89ee3b961d0be924953d",
+    "version": "1.8.0",
+    "url": "https://raw.githubusercontent.com/jeffbristow/sealchat-updates/main/v1.8.0/SealChat-1.8.0.sealchat",
+    "size": "21.5 MB",
+    "sha256": "e3d7b4efc1a87ad03c2efb684fe3996b8abea7dbc16709bcb05378cadefd0310",
     "notes": [
-        "Send and open photos, videos and files from your phone (Seal Chat Web 1.2.0, up to 100 MB)",
-        "Seal Chat Web updates itself from its setup page — signed updates only, with Undo",
-        "Updates now come from GitHub, which works through Tor",
-        "Files sent from your computer show on your phone straight away, with progress"
+        "Invite codes: add someone with a short code like 482-crystal-orange-river instead of the long ID",
+        "Names: add people by a name like ann@example.com (set up on your Seal Chat Web site)",
+        "Reply to a message and react with an emoji",
+        "Mailbox: contacts can leave sealed messages on your Seal Chat Web site while your PC is off",
+        "Groundwork for using one Seal Chat ID on several devices"
     ],
     "released": "2026-10-18",
     "web": {
-        "version": "1.2.3",
-        "url": "https://raw.githubusercontent.com/jeffbristow/sealchat-updates/main/v1.7.0/SealChat-Web-1.2.3.zip",
+        "version": "1.3.0",
+        "url": "https://raw.githubusercontent.com/jeffbristow/sealchat-updates/main/v1.8.0/SealChat-Web-1.3.0.zip",
         "size": "367 KB",
-        "sha256": "7ba340e21614ec4a7ca2b099b25476935421947c6a4c36df6c87f95272c5dbd8",
-        "note": "Test release: checks that Update now works on your hosting"
+        "sha256": "895b3f4e1c458478480d404567bb8a8734e8212e323a5c6ac9ff0e146ae0c5db",
+        "note": "Replies and reactions on the phone, the mailbox, and name@yourdomain names (admin.php → Names)"
     }
 }
