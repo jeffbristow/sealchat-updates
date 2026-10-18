@@ -12,10 +12,10 @@
     ],
     "released": "2026-10-18",
     "web": {
-        "version": "1.2.0",
-        "url": "https://raw.githubusercontent.com/jeffbristow/sealchat-updates/main/v1.7.0/SealChat-Web-1.2.0.zip",
-        "size": "356 KB",
-        "sha256": "16e1a499ca0d481c14e14f87ed16254699def5b63e94aec4300023f69a0d51ac",
-        "note": "Files from your phone, self-update"
+        "version": "1.2.1",
+        "url": "https://raw.githubusercontent.com/jeffbristow/sealchat-updates/main/v1.7.0/SealChat-Web-1.2.1.zip",
+        "size": "366 KB",
+        "sha256": "7afb74f6b69d7cd0df52e8c206abaf6c796346bf4db6b4757badb989aec8849a",
+        "note": "Check for and install updates from the phone (⋯ → Updates)"
     }
 }
