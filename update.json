@@ -1,0 +1,21 @@
+{
+    "name": "Seal Chat",
+    "version": "1.7.0",
+    "url": "https://raw.githubusercontent.com/jeffbristow/sealchat-updates/main/v1.7.0/SealChat-1.7.0.sealchat",
+    "size": "19.4 MB",
+    "sha256": "0ea9325cdaa9c2f36837b4cc07a6b737819b1edbe2aa89ee3b961d0be924953d",
+    "notes": [
+        "Send and open photos, videos and files from your phone (Seal Chat Web 1.2.0, up to 100 MB)",
+        "Seal Chat Web updates itself from its setup page — signed updates only, with Undo",
+        "Updates now come from GitHub, which works through Tor",
+        "Files sent from your computer show on your phone straight away, with progress"
+    ],
+    "released": "2026-10-18",
+    "web": {
+        "version": "1.2.0",
+        "url": "https://raw.githubusercontent.com/jeffbristow/sealchat-updates/main/v1.7.0/SealChat-Web-1.2.0.zip",
+        "size": "356 KB",
+        "sha256": "16e1a499ca0d481c14e14f87ed16254699def5b63e94aec4300023f69a0d51ac",
+        "note": "Files from your phone, self-update"
+    }
+}
