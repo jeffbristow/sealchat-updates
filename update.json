@@ -1,15 +1,13 @@
 {
     "name": "Seal Chat",
-    "version": "1.8.0",
-    "url": "https://raw.githubusercontent.com/jeffbristow/sealchat-updates/main/v1.8.0/SealChat-1.8.0.sealchat",
+    "version": "1.8.1",
+    "url": "https://raw.githubusercontent.com/jeffbristow/sealchat-updates/main/v1.8.1/SealChat-1.8.1.sealchat",
     "size": "21.5 MB",
-    "sha256": "e3d7b4efc1a87ad03c2efb684fe3996b8abea7dbc16709bcb05378cadefd0310",
+    "sha256": "8291de0f5486bba4f4b0222245b119de0f4cd62a6957282c4514af9b96f79369",
     "notes": [
-        "Invite codes: add someone with a short code like 482-crystal-orange-river instead of the long ID",
-        "Names: add people by a name like ann@example.com (set up on your Seal Chat Web site)",
-        "Reply to a message and react with an emoji",
-        "Mailbox: contacts can leave sealed messages on your Seal Chat Web site while your PC is off",
-        "Groundwork for using one Seal Chat ID on several devices"
+        "Mailbox fix: contacts who were on an older Seal Chat now get your mailbox address once they update",
+        "Settings → Web access shows how many contacts know about your mailbox",
+        "The chat says why a message couldn't be left in a contact's mailbox"
     ],
     "released": "2026-10-18",
     "web": {
