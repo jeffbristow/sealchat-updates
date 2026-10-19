@@ -1,12 +1,12 @@
 {
     "name": "Seal Chat",
-    "version": "1.8.3",
-    "url": "https://raw.githubusercontent.com/jeffbristow/sealchat-updates/main/v1.8.3/SealChat-1.8.3.sealchat",
+    "version": "1.8.4",
+    "url": "https://raw.githubusercontent.com/jeffbristow/sealchat-updates/main/v1.8.4/SealChat-1.8.4.sealchat",
     "size": "21.5 MB",
-    "sha256": "7a5a221780cb0d76c697e850c15c78da69f57ad5697cf20efaf32cad89cd7587",
+    "sha256": "67c9e80260c4cac01d8908e6e47bb5b354127fb617a0a4ac55daec91349fa11d",
     "notes": [
-        "Clearer message when a website blocks Tor: says whether Cloudflare, the forwarder or the website stopped it",
-        "Websites that block Tor: mailbox messages and name lookups go through the Seal Chat forwarder (1.8.2)",
+        "The Seal Chat forwarder is removed (not needed)",
+        "When a mailbox website answers with a web page instead of Seal Chat Web's answer, the message names that page",
         "Mailbox address is resent to contacts who updated from an older Seal Chat (1.8.1)"
     ],
     "released": "2026-10-18",
