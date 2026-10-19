@@ -1,13 +1,13 @@
 {
     "name": "Seal Chat",
-    "version": "1.8.1",
-    "url": "https://raw.githubusercontent.com/jeffbristow/sealchat-updates/main/v1.8.1/SealChat-1.8.1.sealchat",
+    "version": "1.8.2",
+    "url": "https://raw.githubusercontent.com/jeffbristow/sealchat-updates/main/v1.8.2/SealChat-1.8.2.sealchat",
     "size": "21.5 MB",
-    "sha256": "8291de0f5486bba4f4b0222245b119de0f4cd62a6957282c4514af9b96f79369",
+    "sha256": "2d61a6a26a7f609fed78553165200943641af5d01a45139d627368e1c9fb55b0",
     "notes": [
-        "Mailbox fix: contacts who were on an older Seal Chat now get your mailbox address once they update",
-        "Settings → Web access shows how many contacts know about your mailbox",
-        "The chat says why a message couldn't be left in a contact's mailbox"
+        "Websites that block Tor: mailbox messages and name lookups now get through via the Seal Chat forwarder (still through Tor — your IP stays hidden)",
+        "Settings → Privacy can turn the forwarder off",
+        "Mailbox address is resent to contacts who updated from an older Seal Chat (1.8.1)"
     ],
     "released": "2026-10-18",
     "web": {
