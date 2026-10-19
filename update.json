@@ -1,13 +1,13 @@
 {
     "name": "Seal Chat",
-    "version": "1.8.4",
-    "url": "https://raw.githubusercontent.com/jeffbristow/sealchat-updates/main/v1.8.4/SealChat-1.8.4.sealchat",
+    "version": "1.8.5",
+    "url": "https://raw.githubusercontent.com/jeffbristow/sealchat-updates/main/v1.8.5/SealChat-1.8.5.sealchat",
     "size": "21.5 MB",
-    "sha256": "67c9e80260c4cac01d8908e6e47bb5b354127fb617a0a4ac55daec91349fa11d",
+    "sha256": "5b10dece8ff3dd7319444b4011d1a92bd1119a5802d5ad18c2f1d8a76c4675fa",
     "notes": [
-        "The Seal Chat forwarder is removed (not needed)",
-        "When a mailbox website answers with a web page instead of Seal Chat Web's answer, the message names that page",
-        "Mailbox address is resent to contacts who updated from an older Seal Chat (1.8.1)"
+        "Mailbox on Cloudflare (free): a Cloudflare Worker can be your mailbox — works even when your web host blocks Tor (Settings → Mailbox)",
+        "Contact mailbox: when a contact is offline, a contact you both have can pass the sealed message on (on by default)",
+        "📬 shows who a message was left with"
     ],
     "released": "2026-10-18",
     "web": {
