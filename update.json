@@ -1,13 +1,13 @@
 {
     "name": "Seal Chat",
-    "version": "1.9.0",
-    "url": "https://raw.githubusercontent.com/jeffbristow/sealchat-updates/main/v1.9.0/SealChat-1.9.0.sealchat",
-    "size": "21.5 MB",
-    "sha256": "e8c7b8eedc05771b8222f4131c9a3e3daa92d8ffd58fc4724070c6ac4e366819",
+    "version": "1.9.2",
+    "url": "https://raw.githubusercontent.com/jeffbristow/sealchat-updates/main/v1.9.2/SealChat-1.9.2.sealchat",
+    "size": "21.7 MB",
+    "sha256": "a21b2420bccd27f8fc6297ca8973c4f0965c065488eb4c1cbc0bf5203e8c8c45",
     "notes": [
-        "Linked devices: use one Seal Chat ID on several computers — contacts can reach you at any of them (Settings → Your devices → Link a new device…)",
-        "Your devices keep each other up to date: messages, contacts, reads, reactions, your name and picture",
-        "Contacts on 1.9 try your other addresses when one doesn't answer"
+        "Fix: \"Link a new device…\" and invite codes failed with \"Digest method not supported\"",
+        "The Android app can now take these same update files",
+        "Android: emoji and email checks work on the phone's Node.js"
     ],
     "released": "2026-10-19",
     "web": {
