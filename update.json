@@ -1,10 +1,11 @@
 {
     "name": "Seal Chat",
-    "version": "1.8.5",
-    "url": "https://raw.githubusercontent.com/jeffbristow/sealchat-updates/main/v1.8.5/SealChat-1.8.5.sealchat",
+    "version": "1.8.6",
+    "url": "https://raw.githubusercontent.com/jeffbristow/sealchat-updates/main/v1.8.6/SealChat-1.8.6.sealchat",
     "size": "21.5 MB",
-    "sha256": "5b10dece8ff3dd7319444b4011d1a92bd1119a5802d5ad18c2f1d8a76c4675fa",
+    "sha256": "dd3f7e4eb9979002d5d199e51926924aea0e280eb49443b3be92956a1762383f",
     "notes": [
+        "Fix: Settings → Mailbox → Copy Worker script works (it failed with \"Write permission denied\")",
         "Mailbox on Cloudflare (free): a Cloudflare Worker can be your mailbox — works even when your web host blocks Tor (Settings → Mailbox)",
         "Contact mailbox: when a contact is offline, a contact you both have can pass the sealed message on (on by default)",
         "📬 shows who a message was left with"
