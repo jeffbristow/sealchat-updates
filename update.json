@@ -1,16 +1,15 @@
 {
     "name": "Seal Chat",
-    "version": "1.8.6",
-    "url": "https://raw.githubusercontent.com/jeffbristow/sealchat-updates/main/v1.8.6/SealChat-1.8.6.sealchat",
+    "version": "1.9.0",
+    "url": "https://raw.githubusercontent.com/jeffbristow/sealchat-updates/main/v1.9.0/SealChat-1.9.0.sealchat",
     "size": "21.5 MB",
-    "sha256": "dd3f7e4eb9979002d5d199e51926924aea0e280eb49443b3be92956a1762383f",
+    "sha256": "e8c7b8eedc05771b8222f4131c9a3e3daa92d8ffd58fc4724070c6ac4e366819",
     "notes": [
-        "Fix: Settings → Mailbox → Copy Worker script works (it failed with \"Write permission denied\")",
-        "Mailbox on Cloudflare (free): a Cloudflare Worker can be your mailbox — works even when your web host blocks Tor (Settings → Mailbox)",
-        "Contact mailbox: when a contact is offline, a contact you both have can pass the sealed message on (on by default)",
-        "📬 shows who a message was left with"
+        "Linked devices: use one Seal Chat ID on several computers — contacts can reach you at any of them (Settings → Your devices → Link a new device…)",
+        "Your devices keep each other up to date: messages, contacts, reads, reactions, your name and picture",
+        "Contacts on 1.9 try your other addresses when one doesn't answer"
     ],
-    "released": "2026-10-18",
+    "released": "2026-10-19",
     "web": {
         "version": "1.3.1",
         "url": "https://raw.githubusercontent.com/jeffbristow/sealchat-updates/main/v1.8.0/SealChat-Web-1.3.1.zip",
