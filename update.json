@@ -1,20 +1,20 @@
 {
     "name": "Seal Chat",
-    "version": "1.9.2",
-    "url": "https://raw.githubusercontent.com/jeffbristow/sealchat-updates/main/v1.9.2/SealChat-1.9.2.sealchat",
+    "version": "1.9.3",
+    "url": "https://raw.githubusercontent.com/jeffbristow/sealchat-updates/main/v1.9.3/SealChat-1.9.3.sealchat",
     "size": "21.7 MB",
-    "sha256": "a21b2420bccd27f8fc6297ca8973c4f0965c065488eb4c1cbc0bf5203e8c8c45",
+    "sha256": "a57c9dae43a158d302687be6f5112ef1844077a5ae20e513599253ae14c553b9",
     "notes": [
-        "Fix: \"Link a new device…\" and invite codes failed with \"Digest method not supported\"",
-        "The Android app can now take these same update files",
-        "Android: emoji and email checks work on the phone's Node.js"
+        "Seal Chat Web works with any of your linked devices — pair a phone once, it works with whichever device is running",
+        "Removing a device gives your website a new key; your phones stay paired",
+        "Phone notifications come once, from the device that got the message"
     ],
-    "released": "2026-10-19",
+    "released": "2026-10-20",
     "web": {
-        "version": "1.3.1",
-        "url": "https://raw.githubusercontent.com/jeffbristow/sealchat-updates/main/v1.8.0/SealChat-Web-1.3.1.zip",
-        "size": "367 KB",
-        "sha256": "5f4672899b2df078f64bac147394ac473b7e6ed8e037174c87b6b766a1b7f08b",
-        "note": "Replies and reactions on the phone, the mailbox, and name@yourdomain names (admin.php → Names)"
+        "version": "1.3.2",
+        "url": "https://raw.githubusercontent.com/jeffbristow/sealchat-updates/main/v1.9.3/SealChat-Web-1.3.2.zip",
+        "size": "371 KB",
+        "sha256": "4d86359f11caef72977d852c720157dddc1e0d487fb1bd6f0ca22c5f990826de",
+        "note": "Your phone works with any of your linked devices (needs Seal Chat 1.9.3)"
     }
 }
