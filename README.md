@@ -2,7 +2,7 @@
 
 Where **Seal Chat** and **Seal Chat Web** get their updates.
 
-Seal Chat (1.7.0+) and Seal Chat Web (1.2.0+) get their updates only from here: they read [`update.json`](update.json) (this works through Tor), then download the files from this repository's version folder (for example [`v1.9.3/`](v1.9.3)).
+Seal Chat (1.7.0+) and Seal Chat Web (1.2.0+) get their updates only from here: they read [`update.json`](update.json) (this works through Tor), then download the files from this repository's version folder (for example [`v1.9.4/`](v1.9.4)).
 
 ## Is this safe?
 

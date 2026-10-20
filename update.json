@@ -1,13 +1,12 @@
 {
     "name": "Seal Chat",
-    "version": "1.9.3",
-    "url": "https://raw.githubusercontent.com/jeffbristow/sealchat-updates/main/v1.9.3/SealChat-1.9.3.sealchat",
+    "version": "1.9.4",
+    "url": "https://raw.githubusercontent.com/jeffbristow/sealchat-updates/main/v1.9.4/SealChat-1.9.4.sealchat",
     "size": "21.7 MB",
-    "sha256": "a57c9dae43a158d302687be6f5112ef1844077a5ae20e513599253ae14c553b9",
+    "sha256": "665a30135cfaf4b4d869b7e2b46d6af6a06fe684d5c17fbf4a36df6f14c82e09",
     "notes": [
-        "Seal Chat Web works with any of your linked devices — pair a phone once, it works with whichever device is running",
-        "Removing a device gives your website a new key; your phones stay paired",
-        "Phone notifications come once, from the device that got the message"
+        "Fix: \"Link to my Seal Chat on another device\" on the first screen showed an empty screen (desktop and Android)",
+        "Seal Chat Web works with any of your linked devices (1.9.3)"
     ],
     "released": "2026-10-20",
     "web": {
