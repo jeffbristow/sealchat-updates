@@ -1,14 +1,14 @@
 {
     "name": "Seal Chat",
-    "version": "1.9.4",
-    "url": "https://raw.githubusercontent.com/jeffbristow/sealchat-updates/main/v1.9.4/SealChat-1.9.4.sealchat",
+    "version": "1.9.5",
+    "url": "https://raw.githubusercontent.com/jeffbristow/sealchat-updates/main/v1.9.5/SealChat-1.9.5.sealchat",
     "size": "21.7 MB",
-    "sha256": "665a30135cfaf4b4d869b7e2b46d6af6a06fe684d5c17fbf4a36df6f14c82e09",
+    "sha256": "53714540f19dc05d4ad8462c62beb091527b888a96f2a32c52cdb9e30aebf5a2",
     "notes": [
-        "Fix: \"Link to my Seal Chat on another device\" on the first screen showed an empty screen (desktop and Android)",
-        "Seal Chat Web works with any of your linked devices (1.9.3)"
+        "Fix (Android): a long message preview no longer makes the contact list scroll sideways — it is cut short with \"…\"",
+        "Fix: \"Link to my Seal Chat on another device\" on the first screen showed an empty screen (desktop and Android)"
     ],
-    "released": "2026-10-20",
+    "released": "2026-10-21",
     "web": {
         "version": "1.3.2",
         "url": "https://raw.githubusercontent.com/jeffbristow/sealchat-updates/main/v1.9.3/SealChat-Web-1.3.2.zip",
