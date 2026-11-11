@@ -1,14 +1,14 @@
 {
     "name": "Seal Chat",
-    "version": "1.9.7",
-    "url": "https://raw.githubusercontent.com/jeffbristow/sealchat-updates/main/v1.9.7/SealChat-1.9.7.sealchat",
+    "version": "1.10.0",
+    "url": "https://raw.githubusercontent.com/jeffbristow/sealchat-updates/main/v1.10.0/SealChat-1.10.0.sealchat",
     "size": "21.7 MB",
-    "sha256": "d1a600fe7965fd4cbb11e1c3275b9054347e4ebf0ceabd85733af90297886e79",
+    "sha256": "d12e0274d503c9dd9d6c568422dffc36152643acccca22549e5c981c523cf5e8",
     "notes": [
-        "New: Seal Chat for Ubuntu Touch — the same Seal Chat on Ubuntu Touch phones (24.04, arm64)",
-        "Updates can now say which Ubuntu Touch apps they are for, like Android"
+        "New: Seal ID — your contacts see your proven Seal ID, and Seal Chat checks theirs itself, through Tor",
+        "Add contact accepts a Seal ID or a domain proven there"
     ],
-    "released": "2026-11-01",
+    "released": "2026-11-11",
     "web": {
         "version": "1.3.2",
         "url": "https://raw.githubusercontent.com/jeffbristow/sealchat-updates/main/v1.9.3/SealChat-Web-1.3.2.zip",
