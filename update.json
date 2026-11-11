@@ -1,19 +1,19 @@
 {
     "name": "Seal Chat",
-    "version": "1.10.0",
-    "url": "https://raw.githubusercontent.com/jeffbristow/sealchat-updates/main/v1.10.0/SealChat-1.10.0.sealchat",
+    "version": "1.11.0",
+    "url": "https://raw.githubusercontent.com/jeffbristow/sealchat-updates/main/v1.11.0/SealChat-1.11.0.sealchat",
     "size": "21.7 MB",
-    "sha256": "d12e0274d503c9dd9d6c568422dffc36152643acccca22549e5c981c523cf5e8",
+    "sha256": "c0d4782588aa58a5cb8109de701041afabb190d86221d0cf2c0cc87a3a8de60d",
     "notes": [
-        "New: Seal ID — your contacts see your proven Seal ID, and Seal Chat checks theirs itself, through Tor",
-        "Add contact accepts a Seal ID or a domain proven there"
+        "Contacts' Seal IDs show in the chat list and the chat header, with a warning if one was replaced",
+        "Seal Chat Web 1.4.0 shows them on your phone too"
     ],
     "released": "2026-11-11",
     "web": {
-        "version": "1.3.2",
-        "url": "https://raw.githubusercontent.com/jeffbristow/sealchat-updates/main/v1.9.3/SealChat-Web-1.3.2.zip",
-        "size": "371 KB",
-        "sha256": "4d86359f11caef72977d852c720157dddc1e0d487fb1bd6f0ca22c5f990826de",
-        "note": "Your phone works with any of your linked devices (needs Seal Chat 1.9.3)"
+        "version": "1.4.0",
+        "url": "https://raw.githubusercontent.com/jeffbristow/sealchat-updates/main/v1.11.0/SealChat-Web-1.4.0.zip",
+        "size": "375 KB",
+        "sha256": "4f945d015670f1c4cc9a06eccd351cb488f3288866abb79e6e502621e89d7261",
+        "note": "Your contacts' Seal IDs on the phone (needs Seal Chat 1.11.0)"
     }
 }
